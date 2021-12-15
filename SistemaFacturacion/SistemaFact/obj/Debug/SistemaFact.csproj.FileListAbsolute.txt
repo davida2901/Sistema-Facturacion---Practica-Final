@@ -1,0 +1,14 @@
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\bin\Debug\SistemaFact.exe.config
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\bin\Debug\SistemaFact.exe
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\bin\Debug\SistemaFact.pdb
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.csproj.AssemblyReference.cache
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.MnInicio.resources
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.Properties.Resources.resources
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.csproj.GenerateResource.cache
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.csproj.CoreCompileInputs.cache
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.exe
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.pdb
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.FrmAdministracion.resources
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.FrmFacturar.resources
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.FrmLogin.resources
+C:\Users\adon2\Desktop\SistemaFacturacion\SistemaFact\obj\Debug\SistemaFact.FrmReportes.resources
